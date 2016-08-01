@@ -1,0 +1,167 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="ruby-2.2.3-p173" />
+      <type value="RUBY_SDK" />
+      <version value="ver.2.2.3p173 ( revision 51636) p173" />
+      <homePath value="C:/Ruby22-x64/bin/ruby.exe" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/Ruby22-x64/lib/ruby/site_ruby/2.2.0" />
+            <root type="simple" url="file://C:/Ruby22-x64/lib/ruby/site_ruby/2.2.0/x64-msvcrt" />
+            <root type="simple" url="file://C:/Ruby22-x64/lib/ruby/site_ruby" />
+            <root type="simple" url="file://C:/Ruby22-x64/lib/ruby/vendor_ruby/2.2.0" />
+            <root type="simple" url="file://C:/Ruby22-x64/lib/ruby/vendor_ruby/2.2.0/x64-msvcrt" />
+            <root type="simple" url="file://C:/Ruby22-x64/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://C:/Ruby22-x64/lib/ruby/2.2.0" />
+            <root type="simple" url="file://C:/Ruby22-x64/lib/ruby/2.2.0/x64-mingw32" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs22" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://C:/Ruby22-x64/lib/ruby/site_ruby/2.2.0" />
+            <root type="simple" url="file://C:/Ruby22-x64/lib/ruby/site_ruby/2.2.0/x64-msvcrt" />
+            <root type="simple" url="file://C:/Ruby22-x64/lib/ruby/site_ruby" />
+            <root type="simple" url="file://C:/Ruby22-x64/lib/ruby/vendor_ruby/2.2.0" />
+            <root type="simple" url="file://C:/Ruby22-x64/lib/ruby/vendor_ruby/2.2.0/x64-msvcrt" />
+            <root type="simple" url="file://C:/Ruby22-x64/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://C:/Ruby22-x64/lib/ruby/2.2.0" />
+            <root type="simple" url="file://C:/Ruby22-x64/lib/ruby/2.2.0/x64-mingw32" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs22" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional LANGUAGE_LEVEL="ruby22" PLATFORM="x64-mingw32" IS_RVM_SDK="false" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="C:/Ruby22-x64/bin" />
+    </jdk>
+    <jdk version="2">
+      <name value="ruby-1.9.3-p551" />
+      <type value="RUBY_SDK" />
+      <version value="ver.1.9.3p551 p551" />
+      <homePath value="C:/Ruby193/bin/ruby.exe" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/Ruby193/lib/ruby/site_ruby/1.9.1" />
+            <root type="simple" url="file://C:/Ruby193/lib/ruby/site_ruby/1.9.1/i386-msvcrt" />
+            <root type="simple" url="file://C:/Ruby193/lib/ruby/site_ruby" />
+            <root type="simple" url="file://C:/Ruby193/lib/ruby/vendor_ruby/1.9.1" />
+            <root type="simple" url="file://C:/Ruby193/lib/ruby/vendor_ruby/1.9.1/i386-msvcrt" />
+            <root type="simple" url="file://C:/Ruby193/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://C:/Ruby193/lib/ruby/1.9.1" />
+            <root type="simple" url="file://C:/Ruby193/lib/ruby/1.9.1/i386-mingw32" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs193" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://C:/Ruby193/lib/ruby/site_ruby/1.9.1" />
+            <root type="simple" url="file://C:/Ruby193/lib/ruby/site_ruby/1.9.1/i386-msvcrt" />
+            <root type="simple" url="file://C:/Ruby193/lib/ruby/site_ruby" />
+            <root type="simple" url="file://C:/Ruby193/lib/ruby/vendor_ruby/1.9.1" />
+            <root type="simple" url="file://C:/Ruby193/lib/ruby/vendor_ruby/1.9.1/i386-msvcrt" />
+            <root type="simple" url="file://C:/Ruby193/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://C:/Ruby193/lib/ruby/1.9.1" />
+            <root type="simple" url="file://C:/Ruby193/lib/ruby/1.9.1/i386-mingw32" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs193" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional LANGUAGE_LEVEL="ruby19" PLATFORM="i386-mingw32" IS_RVM_SDK="false" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="C:/Ruby193/bin" />
+    </jdk>
+    <jdk version="2">
+      <name value="1.8" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.8.0_60&quot;" />
+      <homePath value="C:/Program Files/Java/jdk1.8.0_60" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_60/jre/lib/charsets.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_60/jre/lib/deploy.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_60/jre/lib/ext/access-bridge-64.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_60/jre/lib/ext/cldrdata.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_60/jre/lib/ext/dnsns.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_60/jre/lib/ext/jaccess.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_60/jre/lib/ext/jfxrt.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_60/jre/lib/ext/localedata.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_60/jre/lib/ext/nashorn.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_60/jre/lib/ext/sunec.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_60/jre/lib/ext/sunjce_provider.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_60/jre/lib/ext/sunmscapi.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_60/jre/lib/ext/sunpkcs11.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_60/jre/lib/ext/zipfs.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_60/jre/lib/javaws.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_60/jre/lib/jce.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_60/jre/lib/jfr.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_60/jre/lib/jfxswt.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_60/jre/lib/jsse.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_60/jre/lib/management-agent.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_60/jre/lib/plugin.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_60/jre/lib/resources.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_60/jre/lib/rt.jar!/" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_60/javafx-src.zip!/" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.10 (C:\Program Files (x86)\Sphinx\python\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.10" />
+      <homePath value="C:\Program Files (x86)\Sphinx\python\python.exe" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://C:/Program Files (x86)/Sphinx/python/Lib/site-packages/setuptools-7.0-py2.7.egg!/" />
+            <root type="simple" url="file://C:/Program Files (x86)/Sphinx/python/Lib/site-packages/zc.buildout-2.2.5-py2.7.egg" />
+            <root type="simple" url="file://C:/Program Files (x86)/Sphinx/python/DLLs" />
+            <root type="simple" url="file://C:/Program Files (x86)/Sphinx/python/Lib" />
+            <root type="simple" url="file://C:/Program Files (x86)/Sphinx/python/Lib/lib-tk" />
+            <root type="simple" url="file://C:/Program Files (x86)/Sphinx/python" />
+            <root type="simple" url="file://C:/Program Files (x86)/Sphinx/python/Lib/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.IntelliJIdea15/system/python_stubs/-2044487395" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>

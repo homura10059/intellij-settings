@@ -1,0 +1,1567 @@
+<application>
+  <component name="libraryTable">
+    <library name="activesupport (v4.2.4, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/activesupport-4.2.4/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/activesupport-4.2.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="bigdecimal (v1.2.6, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/io" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/cgi" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/drb" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/irb" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/net" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rss" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/uri" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/json" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/racc" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rake" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rdoc" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/yaml" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/psych" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rexml" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rinda" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/shell" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/win32" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/digest" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/fiddle" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/matrix" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/ripper" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/xmlrpc" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/openssl" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/webrick" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/optparse" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rbconfig" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rubygems" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/win32ole" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/bigdecimal" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/x64-mingw32" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/unicode_normalize" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/io" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/cgi" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/drb" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/irb" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/net" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rss" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/uri" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/json" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/racc" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rake" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rdoc" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/yaml" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/psych" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rexml" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rinda" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/shell" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/win32" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/digest" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/fiddle" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/matrix" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/ripper" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/xmlrpc" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/openssl" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/webrick" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/optparse" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rbconfig" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rubygems" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/win32ole" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/bigdecimal" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/x64-mingw32" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/unicode_normalize" />
+      </SOURCES>
+    </library>
+    <library name="builder (v3.2.2, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/builder-3.2.2/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/builder-3.2.2/rakelib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/builder-3.2.2/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/builder-3.2.2/rakelib" />
+      </SOURCES>
+    </library>
+    <library name="bundle (v0.0.1, ruby-1.9.3-p551) [gem]">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="bundler (v1.9.9, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.9.9/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.9.9/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.9.9/man" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.9.9/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.9.9/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.9.9/man" />
+      </SOURCES>
+    </library>
+    <library name="capistrano (v3.4.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/capistrano-3.4.0/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/capistrano-3.4.0/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/capistrano-3.4.0/features" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/capistrano-3.4.0/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/capistrano-3.4.0/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/capistrano-3.4.0/features" />
+      </SOURCES>
+    </library>
+    <library name="capistrano-spec (v0.6.3, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/capistrano-spec-0.6.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/capistrano-spec-0.6.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="capistrano_colors (v0.5.5, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/capistrano_colors-0.5.5/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/capistrano_colors-0.5.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="coderay (v1.1.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/coderay-1.1.0/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/coderay-1.1.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/coderay-1.1.0/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/coderay-1.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="colorize (v0.7.7, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/colorize-0.7.7/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/colorize-0.7.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="diff-lcs (v1.2.5, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/diff-lcs-1.2.5/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/diff-lcs-1.2.5/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/diff-lcs-1.2.5/autotest" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/diff-lcs-1.2.5/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/diff-lcs-1.2.5/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/diff-lcs-1.2.5/autotest" />
+      </SOURCES>
+    </library>
+    <library name="docile (v1.1.5, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/docile-1.1.5/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/docile-1.1.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="domain_name (v0.5.24, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/domain_name-0.5.24/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/domain_name-0.5.24/data" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/domain_name-0.5.24/tool" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/domain_name-0.5.24/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/domain_name-0.5.24/data" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/domain_name-0.5.24/tool" />
+      </SOURCES>
+    </library>
+    <library name="em-websocket (v0.5.1, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/em-websocket-0.5.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/em-websocket-0.5.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="eventmachine (v1.0.8, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/eventmachine-1.0.8/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/eventmachine-1.0.8/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/eventmachine-1.0.8/java" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/eventmachine-1.0.8/tests" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/eventmachine-1.0.8/rakelib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/eventmachine-1.0.8/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/eventmachine-1.0.8/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/eventmachine-1.0.8/java" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/eventmachine-1.0.8/tests" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/eventmachine-1.0.8/rakelib" />
+      </SOURCES>
+    </library>
+    <library name="ffi (v1.9.10, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/ffi-1.9.10-x86-mingw32/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/ffi-1.9.10-x86-mingw32/gen" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/ffi-1.9.10-x86-mingw32/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/ffi-1.9.10-x86-mingw32/libtest" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/ffi-1.9.10-x86-mingw32/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/ffi-1.9.10-x86-mingw32/gen" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/ffi-1.9.10-x86-mingw32/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/ffi-1.9.10-x86-mingw32/libtest" />
+      </SOURCES>
+    </library>
+    <library name="formatador (v0.2.5, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/formatador-0.2.5/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/formatador-0.2.5/tests" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/formatador-0.2.5/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/formatador-0.2.5/tests" />
+      </SOURCES>
+    </library>
+    <library name="gemoji (v2.1.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/gemoji-2.1.0/db" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/gemoji-2.1.0/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/gemoji-2.1.0/images" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/gemoji-2.1.0/db" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/gemoji-2.1.0/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/gemoji-2.1.0/images" />
+      </SOURCES>
+    </library>
+    <library name="gli (v2.13.2, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/gli-2.13.2/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/gli-2.13.2/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/gli-2.13.2/features" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/gli-2.13.2/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/gli-2.13.2/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/gli-2.13.2/features" />
+      </SOURCES>
+    </library>
+    <library name="guard (v2.13.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/guard-2.13.0/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/guard-2.13.0/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/guard-2.13.0/man" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/guard-2.13.0/images" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/guard-2.13.0/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/guard-2.13.0/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/guard-2.13.0/man" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/guard-2.13.0/images" />
+      </SOURCES>
+    </library>
+    <library name="guard-livereload (v2.4.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/guard-livereload-2.4.0/js" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/guard-livereload-2.4.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/guard-livereload-2.4.0/js" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/guard-livereload-2.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="haml (v4.0.7, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/haml-4.0.7/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/haml-4.0.7/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/haml-4.0.7/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/haml-4.0.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="highline (v1.7.3, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/highline-1.7.3/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/highline-1.7.3/site" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/highline-1.7.3/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/highline-1.7.3/site" />
+      </SOURCES>
+    </library>
+    <library name="highline (v1.7.7, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/highline-1.7.7/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/highline-1.7.7/site" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/highline-1.7.7/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/highline-1.7.7/site" />
+      </SOURCES>
+    </library>
+    <library name="html-pipeline (v2.1.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/html-pipeline-2.1.0/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/html-pipeline-2.1.0/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/html-pipeline-2.1.0/script" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/html-pipeline-2.1.0/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/html-pipeline-2.1.0/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/html-pipeline-2.1.0/script" />
+      </SOURCES>
+    </library>
+    <library name="http-cookie (v1.0.2, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/http-cookie-1.0.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/http-cookie-1.0.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="http_parser.rb (v0.6.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/http_parser.rb-0.6.0/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/http_parser.rb-0.6.0/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/http_parser.rb-0.6.0/bench" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/http_parser.rb-0.6.0/tasks" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/http_parser.rb-0.6.0/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/http_parser.rb-0.6.0/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/http_parser.rb-0.6.0/bench" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/http_parser.rb-0.6.0/tasks" />
+      </SOURCES>
+    </library>
+    <library name="i18n (v0.7.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/i18n-0.7.0/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/i18n-0.7.0/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/i18n-0.7.0/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/i18n-0.7.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="io-console (v0.4.3, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/io" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/cgi" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/drb" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/irb" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/net" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rss" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/uri" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/json" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/racc" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rake" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rdoc" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/yaml" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/psych" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rexml" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rinda" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/shell" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/win32" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/digest" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/fiddle" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/matrix" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/ripper" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/xmlrpc" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/openssl" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/webrick" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/optparse" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rbconfig" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rubygems" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/win32ole" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/bigdecimal" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/x64-mingw32" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/unicode_normalize" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/io" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/cgi" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/drb" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/irb" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/net" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rss" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/uri" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/json" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/racc" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rake" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rdoc" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/yaml" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/psych" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rexml" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rinda" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/shell" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/win32" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/digest" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/fiddle" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/matrix" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/ripper" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/xmlrpc" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/openssl" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/webrick" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/optparse" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rbconfig" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rubygems" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/win32ole" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/bigdecimal" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/x64-mingw32" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/unicode_normalize" />
+      </SOURCES>
+    </library>
+    <library name="jenkins_api_client (v1.4.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/jenkins_api_client-1.4.0/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/jenkins_api_client-1.4.0/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/jenkins_api_client-1.4.0/config" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/jenkins_api_client-1.4.0/travis" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/jenkins_api_client-1.4.0/scripts" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/jenkins_api_client-1.4.0/java_deps" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/jenkins_api_client-1.4.0/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/jenkins_api_client-1.4.0/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/jenkins_api_client-1.4.0/config" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/jenkins_api_client-1.4.0/travis" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/jenkins_api_client-1.4.0/scripts" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/jenkins_api_client-1.4.0/java_deps" />
+      </SOURCES>
+    </library>
+    <library name="json (v1.8.1, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/io" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/cgi" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/drb" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/irb" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/net" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rss" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/uri" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/json" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/racc" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rake" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rdoc" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/yaml" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/psych" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rexml" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rinda" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/shell" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/win32" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/digest" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/fiddle" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/matrix" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/ripper" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/xmlrpc" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/openssl" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/webrick" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/optparse" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rbconfig" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rubygems" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/win32ole" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/bigdecimal" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/x64-mingw32" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/unicode_normalize" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/io" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/cgi" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/drb" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/irb" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/net" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rss" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/uri" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/json" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/racc" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rake" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rdoc" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/yaml" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/psych" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rexml" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rinda" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/shell" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/win32" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/digest" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/fiddle" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/matrix" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/ripper" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/xmlrpc" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/openssl" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/webrick" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/optparse" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rbconfig" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rubygems" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/win32ole" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/bigdecimal" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/x64-mingw32" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/unicode_normalize" />
+      </SOURCES>
+    </library>
+    <library name="json (v1.8.3, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.8.3/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.8.3/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.8.3/data" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.8.3/java" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.8.3/tests" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.8.3/tools" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.8.3/diagrams" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.8.3/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.8.3/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.8.3/data" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.8.3/java" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.8.3/tests" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.8.3/tools" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/json-1.8.3/diagrams" />
+      </SOURCES>
+    </library>
+    <library name="listen (v3.0.3, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/listen-3.0.3/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/listen-3.0.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/listen-3.0.3/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/listen-3.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="lumberjack (v1.0.9, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/lumberjack-1.0.9/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/lumberjack-1.0.9/lib" />
+      </SOURCES>
+    </library>
+    <library name="method_source (v0.8.2, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/method_source-0.8.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/method_source-0.8.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="mime-types (v2.6.1, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/mime-types-2.6.1/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/mime-types-2.6.1/data" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/mime-types-2.6.1/support" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/mime-types-2.6.1/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/mime-types-2.6.1/data" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/mime-types-2.6.1/support" />
+      </SOURCES>
+    </library>
+    <library name="mini_portile (v0.6.2, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/mini_portile-0.6.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/mini_portile-0.6.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="minitest (v5.4.3, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/minitest-5.4.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/minitest-5.4.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="minitest (v5.8.2, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/minitest-5.8.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/minitest-5.8.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="mixlib-shellout (v2.1.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/mixlib-shellout-2.1.0-universal-mingw32/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/mixlib-shellout-2.1.0-universal-mingw32/lib" />
+      </SOURCES>
+    </library>
+    <library name="multi_json (v1.11.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/multi_json-1.11.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/multi_json-1.11.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="multi_json (v1.11.2, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/multi_json-1.11.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/multi_json-1.11.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="nenv (v0.2.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nenv-0.2.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nenv-0.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="net-scp (v1.2.1, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/net-scp-1.2.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/net-scp-1.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="net-ssh (v2.9.2, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/net-ssh-2.9.2/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/net-ssh-2.9.2/support" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/net-ssh-2.9.2/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/net-ssh-2.9.2/support" />
+      </SOURCES>
+    </library>
+    <library name="net-telnet (v0.1.1, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/net-telnet-0.1.1/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/net-telnet-0.1.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/net-telnet-0.1.1/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/net-telnet-0.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="netrc (v0.10.3, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/netrc-0.10.3/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/netrc-0.10.3/data" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/netrc-0.10.3/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/netrc-0.10.3/data" />
+      </SOURCES>
+    </library>
+    <library name="nokogiri (v1.6.5, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.6.5-x86-mingw32/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.6.5-x86-mingw32/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.6.5-x86-mingw32/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.6.5-x86-mingw32/tasks" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.6.5-x86-mingw32/suppressions" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.6.5-x86-mingw32/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.6.5-x86-mingw32/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.6.5-x86-mingw32/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.6.5-x86-mingw32/tasks" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.6.5-x86-mingw32/suppressions" />
+      </SOURCES>
+    </library>
+    <library name="nokogiri (v1.6.6.2, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.6.6.2-x86-mingw32/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.6.6.2-x86-mingw32/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.6.6.2-x86-mingw32/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.6.6.2-x86-mingw32/tasks" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.6.6.2-x86-mingw32/suppressions" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.6.6.2-x86-mingw32/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.6.6.2-x86-mingw32/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.6.6.2-x86-mingw32/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.6.6.2-x86-mingw32/tasks" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/nokogiri-1.6.6.2-x86-mingw32/suppressions" />
+      </SOURCES>
+    </library>
+    <library name="notiffany (v0.0.8, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/notiffany-0.0.8/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/notiffany-0.0.8/images" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/notiffany-0.0.8/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/notiffany-0.0.8/images" />
+      </SOURCES>
+    </library>
+    <library name="pik (v0.2.8, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/pik-0.2.8/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/pik-0.2.8/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/pik-0.2.8/tools" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/pik-0.2.8/features" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/pik-0.2.8/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/pik-0.2.8/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/pik-0.2.8/tools" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/pik-0.2.8/features" />
+      </SOURCES>
+    </library>
+    <library name="power_assert (v0.2.2, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/power_assert-0.2.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/power_assert-0.2.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="pry (v0.10.1, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/pry-0.10.1-x86-mingw32/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/pry-0.10.1-x86-mingw32/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/pry-0.10.1-x86-mingw32/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/pry-0.10.1-x86-mingw32/lib" />
+      </SOURCES>
+    </library>
+    <library name="psych (v2.0.13, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/psych-2.0.13/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/psych-2.0.13/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/psych-2.0.13/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/psych-2.0.13/lib" />
+      </SOURCES>
+    </library>
+    <library name="psych (v2.0.15, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/psych-2.0.15/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/psych-2.0.15/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/psych-2.0.15/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/psych-2.0.15/lib" />
+      </SOURCES>
+    </library>
+    <library name="psych (v2.0.8, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/io" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/cgi" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/drb" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/irb" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/net" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rss" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/uri" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/json" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/racc" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rake" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rdoc" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/yaml" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/psych" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rexml" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rinda" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/shell" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/win32" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/digest" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/fiddle" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/matrix" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/ripper" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/xmlrpc" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/openssl" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/webrick" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/optparse" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rbconfig" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rubygems" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/win32ole" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/bigdecimal" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/x64-mingw32" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/unicode_normalize" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/io" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/cgi" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/drb" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/irb" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/net" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rss" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/uri" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/json" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/racc" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rake" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rdoc" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/yaml" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/psych" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rexml" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rinda" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/shell" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/win32" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/digest" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/fiddle" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/matrix" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/ripper" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/xmlrpc" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/openssl" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/webrick" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/optparse" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rbconfig" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rubygems" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/win32ole" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/bigdecimal" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/x64-mingw32" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/unicode_normalize" />
+      </SOURCES>
+    </library>
+    <library name="Python 2.7.10 (C:\Program Files (x86)\Sphinx\python\python.exe) interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="rack (v1.6.4, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rack-1.6.4/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rack-1.6.4/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rack-1.6.4/contrib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rack-1.6.4/example" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rack-1.6.4/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rack-1.6.4/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rack-1.6.4/contrib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rack-1.6.4/example" />
+      </SOURCES>
+    </library>
+    <library name="rack-livereload (v0.3.16, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rack-livereload-0.3.16/js" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rack-livereload-0.3.16/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rack-livereload-0.3.16/skel" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rack-livereload-0.3.16/features" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rack-livereload-0.3.16/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rack-livereload-0.3.16/js" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rack-livereload-0.3.16/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rack-livereload-0.3.16/skel" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rack-livereload-0.3.16/features" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rack-livereload-0.3.16/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="rake (v0.9.2.2, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rake-0.9.2.2/bin" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rake-0.9.2.2/bin" />
+      </SOURCES>
+    </library>
+    <library name="rake (v10.4.2, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rake-10.4.2/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rake-10.4.2/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rake-10.4.2/rakelib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rake-10.4.2/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rake-10.4.2/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rake-10.4.2/rakelib" />
+      </SOURCES>
+    </library>
+    <library name="rake (v10.4.2, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/io" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/cgi" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/drb" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/irb" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/net" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rss" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/uri" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/json" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/racc" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rake" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rdoc" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/yaml" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/psych" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rexml" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rinda" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/shell" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/win32" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/digest" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/fiddle" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/matrix" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/ripper" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/xmlrpc" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/openssl" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/webrick" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/optparse" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rbconfig" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rubygems" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/win32ole" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/bigdecimal" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/x64-mingw32" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/unicode_normalize" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/io" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/cgi" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/drb" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/irb" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/net" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rss" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/uri" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/json" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/racc" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rake" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rdoc" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/yaml" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/psych" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rexml" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rinda" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/shell" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/win32" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/digest" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/fiddle" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/matrix" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/ripper" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/xmlrpc" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/openssl" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/webrick" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/optparse" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rbconfig" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rubygems" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/win32ole" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/bigdecimal" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/x64-mingw32" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/unicode_normalize" />
+      </SOURCES>
+    </library>
+    <library name="rb-fsevent (v0.9.6, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rb-fsevent-0.9.6/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rb-fsevent-0.9.6/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rb-fsevent-0.9.6/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rb-fsevent-0.9.6/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rb-fsevent-0.9.6/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rb-fsevent-0.9.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="rb-inotify (v0.9.5, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rb-inotify-0.9.5/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rb-inotify-0.9.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="rdoc (v3.9.5, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rdoc-3.9.5/bin" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rdoc-3.9.5/bin" />
+      </SOURCES>
+    </library>
+    <library name="rdoc (v4.2.0, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/io" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/cgi" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/drb" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/irb" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/net" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rss" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/uri" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/json" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/racc" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rake" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rdoc" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/yaml" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/psych" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rexml" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rinda" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/shell" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/win32" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/digest" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/fiddle" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/matrix" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/ripper" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/xmlrpc" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/openssl" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/webrick" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/optparse" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rbconfig" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rubygems" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/win32ole" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/bigdecimal" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/x64-mingw32" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/unicode_normalize" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/io" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/cgi" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/drb" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/irb" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/net" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rss" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/uri" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/json" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/racc" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rake" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rdoc" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/yaml" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/psych" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rexml" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rinda" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/shell" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/win32" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/digest" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/fiddle" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/matrix" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/ripper" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/xmlrpc" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/openssl" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/webrick" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/optparse" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rbconfig" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/rubygems" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/win32ole" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/bigdecimal" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/x64-mingw32" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/2.2.0/unicode_normalize" />
+      </SOURCES>
+    </library>
+    <library name="redcarpet (v3.3.2, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/redcarpet-3.3.2/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/redcarpet-3.3.2/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/redcarpet-3.3.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/redcarpet-3.3.2/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/redcarpet-3.3.2/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/redcarpet-3.3.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="rest-client (v1.8.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rest-client-1.8.0-x86-mingw32/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rest-client-1.8.0-x86-mingw32/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rest-client-1.8.0-x86-mingw32/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rest-client-1.8.0-x86-mingw32/lib" />
+      </SOURCES>
+    </library>
+    <library name="rinku (v1.7.3, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rinku-1.7.3/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rinku-1.7.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rinku-1.7.3/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rinku-1.7.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="rinku (v1.7.3, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/rinku-1.7.3/ext" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/rinku-1.7.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/rinku-1.7.3/ext" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/rinku-1.7.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec (v3.2.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rspec-3.2.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rspec-3.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec (v3.3.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rspec-3.3.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rspec-3.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-core (v3.2.3, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rspec-core-3.2.3/exe" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rspec-core-3.2.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rspec-core-3.2.3/exe" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rspec-core-3.2.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-core (v3.3.2, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rspec-core-3.3.2/exe" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rspec-core-3.3.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rspec-core-3.3.2/exe" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rspec-core-3.3.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-expectations (v3.2.1, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rspec-expectations-3.2.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rspec-expectations-3.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-expectations (v3.3.1, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rspec-expectations-3.3.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rspec-expectations-3.3.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-its (v1.2.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rspec-its-1.2.0/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rspec-its-1.2.0/script" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rspec-its-1.2.0/features" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rspec-its-1.2.0/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rspec-its-1.2.0/script" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rspec-its-1.2.0/features" />
+      </SOURCES>
+    </library>
+    <library name="rspec-mocks (v3.2.1, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rspec-mocks-3.2.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rspec-mocks-3.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-mocks (v3.3.2, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rspec-mocks-3.3.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rspec-mocks-3.3.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-support (v3.2.2, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rspec-support-3.2.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rspec-support-3.2.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-support (v3.3.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rspec-support-3.3.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rspec-support-3.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec_junit_formatter (v0.2.3, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rspec_junit_formatter-0.2.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/rspec_junit_formatter-0.2.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="serverspec (v2.17.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/serverspec-2.17.0/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/serverspec-2.17.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/serverspec-2.17.0/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/serverspec-2.17.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="serverspec (v2.24.1, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/serverspec-2.24.1/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/serverspec-2.24.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/serverspec-2.24.1/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/serverspec-2.24.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="sfl (v2.2, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/sfl-2.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/sfl-2.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="shellany (v0.0.1, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/shellany-0.0.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/shellany-0.0.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="slim (v3.0.6, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/slim-3.0.6/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/slim-3.0.6/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/slim-3.0.6/benchmarks" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/slim-3.0.6/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/slim-3.0.6/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/slim-3.0.6/benchmarks" />
+      </SOURCES>
+    </library>
+    <library name="slim (v3.0.6, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/slim-3.0.6/bin" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/slim-3.0.6/lib" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/slim-3.0.6/benchmarks" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/slim-3.0.6/bin" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/slim-3.0.6/lib" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/slim-3.0.6/benchmarks" />
+      </SOURCES>
+    </library>
+    <library name="slop (v3.6.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/slop-3.6.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/slop-3.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="specinfra (v2.34.6, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/specinfra-2.34.6/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/specinfra-2.34.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="specinfra (v2.43.9, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/specinfra-2.43.9/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/specinfra-2.43.9/lib" />
+      </SOURCES>
+    </library>
+    <library name="sshkit (v1.7.1, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/sshkit-1.7.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/sshkit-1.7.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="temple (v0.7.6, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/temple-0.7.6/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/temple-0.7.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="temple (v0.7.6, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/temple-0.7.6/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/temple-0.7.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="terminal-table (v1.5.2, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/terminal-table-1.5.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/terminal-table-1.5.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="test-unit (v3.0.8, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/test-unit-3.0.8/lib" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/test-unit-3.0.8/sample" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/test-unit-3.0.8/lib" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/test-unit-3.0.8/sample" />
+      </SOURCES>
+    </library>
+    <library name="thor (v0.19.1, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/thor-0.19.1/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/thor-0.19.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/thor-0.19.1/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/thor-0.19.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="thor (v0.19.1, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/thor-0.19.1/bin" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/thor-0.19.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/thor-0.19.1/bin" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/thor-0.19.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="thread_safe (v0.3.5, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/thread_safe-0.3.5/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/thread_safe-0.3.5/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/thread_safe-0.3.5/tasks" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/thread_safe-0.3.5/yard-template" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/thread_safe-0.3.5/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/thread_safe-0.3.5/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/thread_safe-0.3.5/tasks" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/thread_safe-0.3.5/yard-template" />
+      </SOURCES>
+    </library>
+    <library name="tilt (v2.0.1, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/tilt-2.0.1/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/tilt-2.0.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/tilt-2.0.1/bin" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/tilt-2.0.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="tilt (v2.0.1, ruby-2.2.3-p173) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/tilt-2.0.1/bin" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/tilt-2.0.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/tilt-2.0.1/bin" />
+        <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/tilt-2.0.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="tzinfo (v1.2.2, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/tzinfo-1.2.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/tzinfo-1.2.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="unf (v0.1.4, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/unf-0.1.4/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/unf-0.1.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="unf_ext (v0.0.7.1, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/unf_ext-0.0.7.1-x86-mingw32/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/unf_ext-0.0.7.1-x86-mingw32/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/unf_ext-0.0.7.1-x86-mingw32/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/unf_ext-0.0.7.1-x86-mingw32/lib" />
+      </SOURCES>
+    </library>
+    <library name="unindent (v1.0, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/unindent-1.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/unindent-1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="win32-api (v1.5.3, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32-api-1.5.3-universal-mingw32/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32-api-1.5.3-universal-mingw32/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32-api-1.5.3-universal-mingw32/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32-api-1.5.3-universal-mingw32/lib" />
+      </SOURCES>
+    </library>
+    <library name="win32-process (v0.7.5, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32-process-0.7.5/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32-process-0.7.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="win32console (v1.3.2, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32console-1.3.2-x86-mingw32/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32console-1.3.2-x86-mingw32/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32console-1.3.2-x86-mingw32/extra" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32console-1.3.2-x86-mingw32/tasks" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32console-1.3.2-x86-mingw32/ext" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32console-1.3.2-x86-mingw32/lib" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32console-1.3.2-x86-mingw32/extra" />
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/win32console-1.3.2-x86-mingw32/tasks" />
+      </SOURCES>
+    </library>
+    <library name="windows-api (v0.4.4, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/windows-api-0.4.4/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/windows-api-0.4.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="windows-pr (v1.2.4, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/windows-pr-1.2.4/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/windows-pr-1.2.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="xml-simple (v1.1.5, ruby-1.9.3-p551) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/xml-simple-1.1.5/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/xml-simple-1.1.5/lib" />
+      </SOURCES>
+    </library>
+  </component>
+</application>
