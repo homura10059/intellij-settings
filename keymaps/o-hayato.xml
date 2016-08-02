@@ -15,12 +15,26 @@
   </action>
   <action id="GuiDesigner.Duplicate" />
   <action id="IntroduceLambdaParameter" />
+  <action id="MethodDown">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="MethodUp">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="alt up" />
+  </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="alt j" />
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="SendEOF" />
   <action id="ShelvedChanges.Diff" />
+  <action id="SwitchDown" />
+  <action id="SwitchUp" />
   <action id="TagDocumentationNavigation" />
   <action id="Uml.ShowDiff" />
   <action id="intellij.frontendalignement.AlignItAction">
