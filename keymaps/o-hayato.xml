@@ -1,7 +1,13 @@
 <keymap version="1" name="o-hayato" parent="$default">
+  <action id="CodicPluginQuickLookAction">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="Diff.ShowDiff" />
-  <action id="EditorDuplicate" />
+  <action id="Diff.ShowSettingsPopup" />
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="shift ctrl d" />
+  </action>
   <action id="ExpressionTypeInfo" />
   <action id="FileChooser.GotoDesktop" />
   <action id="GotoAction">
@@ -15,6 +21,8 @@
   </action>
   <action id="SendEOF" />
   <action id="ShelvedChanges.Diff" />
+  <action id="TagDocumentationNavigation" />
+  <action id="Uml.ShowDiff" />
   <action id="intellij.frontendalignement.AlignItAction">
     <keyboard-shortcut first-keystroke="shift ctrl a" />
   </action>
