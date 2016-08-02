@@ -15,5 +15,8 @@
   </action>
   <action id="SendEOF" />
   <action id="ShelvedChanges.Diff" />
+  <action id="intellij.frontendalignement.AlignItAction">
+    <keyboard-shortcut first-keystroke="shift ctrl a" />
+  </action>
   <action id="openAssertEqualsDiff" />
 </keymap>
