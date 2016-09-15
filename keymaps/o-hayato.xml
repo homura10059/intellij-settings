@@ -3,6 +3,9 @@
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
   <action id="CompareTwoFiles" />
+  <action id="DashLauncherAction">
+    <keyboard-shortcut first-keystroke="shift alt d" />
+  </action>
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="EditorDuplicate">
@@ -54,6 +57,7 @@
   </action>
   <action id="TagDocumentationNavigation" />
   <action id="Uml.ShowDiff" />
+  <action id="hg4idea.QFold" />
   <action id="intellij.frontendalignement.AlignItAction">
     <keyboard-shortcut first-keystroke="shift ctrl a" />
   </action>
