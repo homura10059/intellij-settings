@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[computing-usecase_main] - ...\src\main\java\com\nifty\cloud\computing\usecase\instance\InstanceRepository.java'" />
-    <option name="defaultScopeName" value="File '[computing-usecase_main] - ...\src\main\java\com\nifty\cloud\computing\usecase\instance\InstanceRepository.java'" />
-    <option name="SEARCH_SCOPE" value="File '[computing-usecase_main] - ...\src\main\java\com\nifty\cloud\computing\usecase\instance\InstanceRepository.java'" />
+    <option name="customScope" value="Directory '[ipam-lib_main] - ...\src\main\java'" />
+    <option name="defaultScopeName" value="Directory '[ipam-lib_main] - ...\src\main\java'" />
+    <option name="SEARCH_SCOPE" value="Directory '[ipam-lib_main] - ...\src\main\java'" />
   </component>
 </application>
