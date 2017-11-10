@@ -1,4 +1,8 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="Arrangement.Alias.Rule.Match.Condition.Move.Up" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="ChoosePrevSubsequentPropertyValueEditorAction" />
   <action id="CodicPluginQuickLookAction">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
@@ -17,6 +21,14 @@
   <action id="Macro.formatted_save">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
+  <action id="MethodDown" />
+  <action id="MethodUp" />
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="alt up" />
+  </action>
   <action id="OpenFile">
     <keyboard-shortcut first-keystroke="ctrl alt p" />
   </action>
@@ -26,6 +38,7 @@
   </action>
   <action id="SendEOF" />
   <action id="ShelvedChanges.Diff" />
+  <action id="ShowContent" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
@@ -43,6 +56,8 @@
   </action>
   <action id="TagDocumentationNavigation" />
   <action id="Uml.ShowDiff" />
+  <action id="XDebugger.MoveWatchDown" />
+  <action id="XDebugger.MoveWatchUp" />
   <action id="intellij.frontendalignement.AlignItAction">
     <keyboard-shortcut first-keystroke="shift ctrl a" />
   </action>
