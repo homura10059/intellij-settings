@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="Directory '...\2_ROOKIES\saga1a_bat_20180420 [2_ROOKIES_saga1a_bat_20180420]'" />
+    <option name="defaultScopeName" value="Directory '...\2_ROOKIES\saga1a_bat_20180420 [2_ROOKIES_saga1a_bat_20180420]'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="Directory '...\2_ROOKIES\saga1a_bat_20180420 [2_ROOKIES_saga1a_bat_20180420]'" />
   </component>
 </application>
