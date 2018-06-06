@@ -1,0 +1,8 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="auto_format">
+      <action id="ReformatCode" />
+      <action id="OptimizeImports" />
+    </macro>
+  </component>
+</application>
