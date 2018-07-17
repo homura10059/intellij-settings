@@ -26,7 +26,7 @@
   </action>
   <action id="GuiDesigner.Duplicate" />
   <action id="IntroduceLambdaParameter" />
-  <action id="Macro.auto-fomat">
+  <action id="Macro.auto_format">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
   </action>
   <action id="Macro.formatted_save">
