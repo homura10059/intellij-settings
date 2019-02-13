@@ -1,7 +1,7 @@
 <application>
   <component name="PrintSettings">
     <option name="includeSubdirectories" value="true" />
-    <option name="printScope" value="4" />
+    <option name="printScope" value="2" />
     <option name="COLOR_PRINTING" value="true" />
     <option name="PORTRAIT_LAYOUT" value="false" />
   </component>

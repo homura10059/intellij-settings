@@ -62,7 +62,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'All Tests'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All in com.nifcloud.api.computing.lib.virtual-edge-device-lib.test'">
@@ -73,11 +73,27 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'computing-usecase [dependencies]'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'computing-usecase [dependencies]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'virtual-edge-device-lib [build]'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'virtual-edge-device-lib [build]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'computing-usecase [dependencies]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'computing-usecase [dependencies]'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
