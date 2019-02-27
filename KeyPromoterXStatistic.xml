@@ -289,6 +289,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'CombinatoricsUtilTest.combination_list_string_4C4'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'CombinatoricsUtilTest.combination_list_string_4C4'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'InstanceIdServiceTest.checkInstanceIsCreatingAbnormalTest_課金REFレコード無し'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
