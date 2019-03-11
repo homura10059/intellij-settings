@@ -201,6 +201,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'CommonPortGroupFactoryTest.getCommonPor…pList_正常系_optional_port_group_private取得時'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'CommonPortGroupFactoryTest.getCommonPor…pList_正常系_optional_port_group_private取得時'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'IpAddressRepositoryTest'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
