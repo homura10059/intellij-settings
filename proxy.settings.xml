@@ -1,0 +1,5 @@
+<application>
+  <component name="HttpConfigurable">
+    <option name="PROXY_HOST" value="wwwgate-2.office.fjct.fujitsu.com" />
+  </component>
+</application>
